@@ -1,0 +1,36 @@
+body {
+    background-color: pink;
+    text-align: center;
+    color: lightblue;
+    
+}
+
+.apology {
+    margin:auto;
+    background-color: lightblue;
+    border-radius: 25px;
+    width: 500px;
+    
+}
+
+img {
+    width: 300px;
+    height: 300px;
+}
+h1{
+    text-align: center;
+    color: black;
+    margin: auto;
+    font-family: sans-serif
+}
+p{
+    text-align: center;
+    color: black;
+    margin:auto;
+    font-family: sans-serif;
+    
+    
+}
+h2{
+    color: black;
+}
